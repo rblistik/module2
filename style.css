@@ -25,7 +25,7 @@ section {
 }
 section div {
 	font-size: 125%;
-	position: relative;
+	position: absolute;
 	padding: 5px;
 	border-left-color: #000000;
 	border-bottom-color: #000000;
