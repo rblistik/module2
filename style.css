@@ -14,7 +14,7 @@ h1 {
 	font-size: 175%;
 	}
 section {
-	position: absolute;
+	position: relative;
 	margin: 10px;
 	margin-bottom: 20px;
 	padding: 10px;
@@ -25,7 +25,7 @@ section {
 }
 section div {
 	font-size: 125%;
-	position: absolute;
+	position: relative;
 	padding: 5px;
 	border-left-color: #000000;
 	border-bottom-color: #000000;
