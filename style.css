@@ -70,5 +70,6 @@ p {
 section {
 	clear: both;
 	width: auto;
+	float:left;
 }
 }
