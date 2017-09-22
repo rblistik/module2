@@ -69,6 +69,6 @@ p {
 @media (max-width:767px) {
 section {
 	clear: both;
-	width: inherit;
+	width: auto;
 }
 }
